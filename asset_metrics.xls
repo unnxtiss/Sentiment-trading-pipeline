@@ -1,0 +1,6 @@
+ticker,current_price,support,resistance,sentiment_score,direction,social_mentions
+AAPL,355.64,325.33,359.37,0.25,Bullish,142
+TSLA,392.3,338.15,414.23,0.25,Bullish,142
+MSFT,529.09,504.96,559.15,0.25,Bullish,142
+NVDA,165.62,148.8,209.98,0.25,Bullish,142
+GOOGL,302.24,276.92,302.25,0.25,Bullish,142
